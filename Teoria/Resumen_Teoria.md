@@ -69,6 +69,8 @@
 
 ### 2.1 - Introducción
 
+- La cadena de montaje es un tipo de distribucion en planta donde las maquinas estan colocadas en el mismo orden en el que se fabrica el producto o familia de productos.
+
 ### 2.2 - Conceptos
 
 - Takt time: Tiempo de ciclo al que se debe producir para satisfacer la demanda del cliente.
